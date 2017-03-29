@@ -79,10 +79,10 @@ public class LearnMerchant {
 	
 	
 	public static void main(String[] args) throws IllegalArgumentException, IOException {
-		
+		//程序开始启动
 		LearnMerchant lm = new LearnMerchant();
 		lm.run();
-		
+
 	}
 	
 }
